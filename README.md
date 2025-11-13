@@ -10,4 +10,5 @@
 ![Tampilan Dashboard](tambah_product_MS.png)
 ![Tampilan Dashboard](master_user_admin.png)
 ![Tampilan Dashboard](master_supplier_admin.png)
+![Tampilan Dashboard](tambah_supplier_MS.png)
 ![Tampilan Dashboard](edit_supplier_MS.png)
