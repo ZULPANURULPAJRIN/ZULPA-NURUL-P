@@ -5,7 +5,6 @@
 ![Tampilan Dashboard](home_admin.png)
 ![Tampilan Dashboard](dashboard_admin.png)
 ![Tampilan Dashboard](dashboard_admin(2).png)
-![Tampilan Dashboard](master_product.png)
 ![Tampilan Dashboard](master_product_admin.png)
 ![Tampilan Dashboard](edit_product_MS.png)
 ![Tampilan Dashboard](tambah_product_MS.png)
