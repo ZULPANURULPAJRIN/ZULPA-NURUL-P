@@ -3,7 +3,6 @@
 ![Tampilan Dashboard](home_user.png)
 ![Tampilan Dashboard](master_product_user.png)
 ![Tampilan Dashboard](home_admin.png)
-![Tampilan Dashboard](login.png)
 ![Tampilan Dashboard](dashboard_admin.png)
 ![Tampilan Dashboard](dashboard_admin(2).png)
 ![Tampilan Dashboard](master_product_admin.png)
